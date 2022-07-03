@@ -1,7 +1,9 @@
-const router = require("express").Router();
+const router = require('express').Router();
 
-router.get("/", (req, res) => {
-  res.send("GET /places");
-});
+// GET /places
+router.get('/', (req, res) => {
+  res.render('places/index')
+})
+
 
 module.exports = router;
