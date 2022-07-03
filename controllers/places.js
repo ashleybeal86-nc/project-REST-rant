@@ -11,8 +11,8 @@ router.get("/", (req, res) => {
     },
     {
       name: "Coding Cat Cafe",
-      city: "Phoenix",
-      state: "AZ",
+      city: "Miami",
+      state: "FL",
       cuisines: "Coffee, Bakery",
       pic: "/images/restaurantpic2.jpg",
     },
