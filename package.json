@@ -23,5 +23,8 @@
     "react": "^18.2.0"
   },
   "description": "REST-Rant is an app where users can review restaurants.",
-  "devDependencies": {}
+  "devDependencies": {},
+  "nodemonConfig": {
+    "ext": "js,html,json,jsx,mjs"
+  }
 }
