@@ -31,5 +31,5 @@ REST-Rant is an app where users can review restaurants.
 | pic       | String    |
 
 
-### Color Palette Idea
-![This is an image](/restaurant%20review%20website%20color%20palette%20.png)
+## Color Palette Idea
+![This is an image](/restaurant%20review%20website%20color%20palette%20resized%20.png)
