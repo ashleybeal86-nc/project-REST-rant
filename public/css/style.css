@@ -7,3 +7,22 @@ h1 {
     background-color: #C2EFB3;
 }
 
+nav {
+  background-color: #C2EFB3;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 25px;
+}
+
+nav a:hover {
+  color: pink;
+  text-decoration: none;
+}
