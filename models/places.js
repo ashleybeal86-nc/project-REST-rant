@@ -7,10 +7,11 @@ module.exports = [
     pic: "/images/restaurantpic1.jpg",
   },
   {
-    name: "Coding Cat Cafe",
-    city: "Phoenix",
-    state: "AZ",
-    cuisines: "Coffee, Bakery",
+    name: "Switch-Statement Seafood",
+    city: "Miami",
+    state: "FL",
+    cuisines: "Seafood",
     pic: "/images/restaurantpic2.jpg",
   },
 ];
+

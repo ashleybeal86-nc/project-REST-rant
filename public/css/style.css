@@ -19,6 +19,7 @@ nav ul {
 
 nav li {
   display: inline;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-right: 25px;
 }
 
@@ -28,12 +29,13 @@ nav a:hover {
 }
 
 body {
-  background-color: lightblue;
+  background-color: #746F72;
   text-align: center;
 }
 
 main {
   margin-right: 20px;
   margin-left: 20px;
-  background-color: white;
+  background-color: #97ABB1;
+  padding-bottom: 20px;
 }
