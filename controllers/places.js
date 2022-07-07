@@ -2,11 +2,17 @@ const router = require("express").Router();
 const places = require("../models/places.js");
 
 
-///GET
+///GET/INDEX
 router.get("/", (req, res) => {
   res.render("places/", { places });
 });
 
+///NEW
+router.get("/new", (req, res) => {
+  res.render("places/new");
+});
+
+//SHOW
 router.get("/:id", (req, res) => {
   let id = Number(req.params.id);
   if (isNaN(id)) {
@@ -17,12 +23,6 @@ router.get("/:id", (req, res) => {
     res.render("places/show", { place: places[id], id });
   }
 });
-
-///NEW
-router.get("/new", (req, res) => {
-  res.render("places/new");
-});
-
 
 ///POST
 router.post("/", (req, res) => {
