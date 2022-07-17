@@ -36,17 +36,7 @@ function Def(html) {
         </nav>
         {html.children}
       </body>
-      <hr></hr>
-      <h2 class="trending">New Restaurants Trending Now</h2>
-      <br>
-      </br>
-      <h3>Python Pizzeria</h3>
-      <br>
-      </br>
-      <h3>CSS Cantina</h3> 
-      <br>
-      </br>
-      <h3>SQL BBQ</h3>
+  
     </html>
   );
 }

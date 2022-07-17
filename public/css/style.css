@@ -45,4 +45,21 @@ main {
 .trending {
    text-align: center;
    color: #C2EFB3;
+   background-color: #746F72;
+}
+
+.python {
+   text-align: center;
+   color: #735F3D;
+}
+
+.cantina {
+   text-align: center;
+   color: #735F3D;
+}
+
+
+.bbq {
+   text-align: center;
+   color: #735F3D;
 }
