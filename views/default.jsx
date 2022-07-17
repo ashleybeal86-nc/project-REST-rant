@@ -17,7 +17,8 @@ function Def(html) {
           type="image/png"
           sizes="16x16"
           href="/images/foodfavicon2.png"
-        />
+          src ="https://icons8.com/icon/8439/meal"
+      />
       </head>
       <body>
         <nav>

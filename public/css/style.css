@@ -6,6 +6,7 @@ h1 {
 .btn-primary {
     color: #735F3D;
     background-color: #C2EFB3;
+    font-weight: bold;
 }
 
 nav {
@@ -25,7 +26,7 @@ nav li {
 }
 
 nav a:hover {
-  color: pink;
+  color: rgb(19, 7, 60);
   text-decoration: none;
 }
 

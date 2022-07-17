@@ -6,11 +6,22 @@ function error404() {
     <Def>
       <main>
         <h1>404: PAGE NOT FOUND</h1>
-        <p>OH NO!!!!!! Oops, sorry, we can't find this page!</p>
-         <div>
-         <img src="/images/404pagepicresized.jpg"/>
+        <p>
+          <strong>OH NO!!!!!! Sorry, we can't find this page right now! </strong>
+        </p>
+        <p>(I probably just messed up my code, so please check back later)</p>
+
+        <div>
+          <img src="/images/404pagepicresized.jpg" />
           <div>
-            Photo by <a href="https://unsplash.com/@l_oan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loan</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+            Photo by{" "}
+            <a href="https://unsplash.com/@l_oan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+              Loan
+            </a>{" "}
+            on{" "}
+            <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+              Unsplash
+            </a>
           </div>
         </div>
       </main>

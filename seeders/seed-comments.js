@@ -11,6 +11,16 @@ async function seed() {
     rant: false,
     stars: 5.0,
     content: "Wow, simply amazing! Highly recommended!",
+
+    author: "Starvin Marvin",
+    rant: true,
+    stars: 2.5,
+    content: "Expected the food to be better",
+
+    author: "Hungry Hailey",
+    rant: false,
+    stars: 4.5,
+    content: "The staff was great and food was good",
   });
 
   // Add that comment to the place's comment array.
