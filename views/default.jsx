@@ -17,8 +17,8 @@ function Def(html) {
           type="image/png"
           sizes="16x16"
           href="/images/foodfavicon2.png"
-          src ="https://icons8.com/icon/8439/meal"
-      />
+          src="https://icons8.com/icon/8439/meal"
+        />
       </head>
       <body>
         <nav>
@@ -36,6 +36,17 @@ function Def(html) {
         </nav>
         {html.children}
       </body>
+      <hr></hr>
+      <h2 class="trending">New Restaurants Trending Now</h2>
+      <br>
+      </br>
+      <h3>Python Pizzeria</h3>
+      <br>
+      </br>
+      <h3>CSS Cantina</h3> 
+      <br>
+      </br>
+      <h3>SQL BBQ</h3>
     </html>
   );
 }
