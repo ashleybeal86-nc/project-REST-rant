@@ -12,6 +12,12 @@ function Def(html) {
           crossOrigin="anonymous"
         />
         <link rel="stylesheet" href="/css/style.css" />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/images/foodfavicon2.png"
+        />
       </head>
       <body>
         <nav>
