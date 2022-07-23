@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   color: #735F3D;
+  font-size: 4em;
 }
 
 .btn-primary {
@@ -23,6 +24,7 @@ nav li {
   display: inline;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-right: 25px;
+  font-size: 1.5em;
 }
 
 nav a:hover {
@@ -46,6 +48,7 @@ main {
    text-align: center;
    color: #C2EFB3;
    background-color: #746F72;
+   text-shadow:#735F3D;
 }
 
 .python {
@@ -63,3 +66,9 @@ main {
    text-align: center;
    color: #735F3D;
 }
+
+link {
+  color: #C2EFB3;
+ 
+}
+  
